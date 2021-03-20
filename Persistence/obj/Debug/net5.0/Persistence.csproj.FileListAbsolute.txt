@@ -1,0 +1,15 @@
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
