@@ -4,7 +4,6 @@ namespace Domain
 {
     public class Activity
     {
-        private Activity(){} //For EF Core
         public Guid Id { get; set; }
         public string Title { get; set; }
         public DateTime Date { get; set; }
