@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "G/apypSq4jCy+DjV8eD0ER+/byOI3Nsk2BCtUcLM4hhxnH8TJFHP71moe1mrEskHhIlPYqU3GAo829xJymNJhA==",
+  "dgSpecHash": "tnO4SXcQJLFRhemtUWpEXo+KSBQBeAsXHSvXCeaxPCFFctNfb+uk3EOsooeK12s9lHB9tYJYsRkTrBn82cKb8g==",
   "success": true,
   "projectFilePath": "/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/ryan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/ryan/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/ryan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/ryan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.1/microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "/Users/ryan/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.1/microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
     "/Users/ryan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
