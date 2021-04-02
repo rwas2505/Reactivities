@@ -13,6 +13,9 @@
         "packagesPath": "/Users/ryan/.nuget/packages/",
         "outputPath": "/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/ryan/.nuget/NuGet/NuGet.Config"
         ],

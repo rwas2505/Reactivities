@@ -13,6 +13,9 @@
         "packagesPath": "/Users/ryan/.nuget/packages/",
         "outputPath": "/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Application/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/ryan/.nuget/NuGet/NuGet.Config"
         ],
@@ -44,6 +47,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -72,6 +81,9 @@
         "packagesPath": "/Users/ryan/.nuget/packages/",
         "outputPath": "/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Domain/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/ryan/.nuget/NuGet/NuGet.Config"
         ],
@@ -124,6 +136,9 @@
         "packagesPath": "/Users/ryan/.nuget/packages/",
         "outputPath": "/Users/ryan/Desktop/udemy/netCoreReact/Reactivities/Persistence/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/ryan/.nuget/NuGet/NuGet.Config"
         ],
